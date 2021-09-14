@@ -1,0 +1,4 @@
+Trx: 0x10e1dcb0b917956de1bb69f90a6bc693345d3bfe7be964dd597405964f36a140
+Contract: 0xA5692307BC2B9634C21995a0018Ed000F468cF4A
+
+OpenSea Testnet URL: https://testnets.opensea.io/collection/erc1155-practice01

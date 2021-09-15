@@ -986,7 +986,7 @@ contract ERC1155Practice is Ownable, ERC1155
         _mint(account, id, amount, "");
     }
     
-    function burn(address account, uint256 id, uint256 amount) public onlyOwner
+    function burn(address account, uint256 id, uint256 amount) public
     {
         require(_msgSender() == account, "You can only burn your own tokens");
         _burn(account, id, amount);
